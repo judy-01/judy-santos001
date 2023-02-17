@@ -1,5 +1,5 @@
 ## Hello, I'm Judy 🙂
-### Junior Back-End developer 👩🏻‍💻
+### Backend development student 👩🏻‍💻
 
 - ⚡ I am currently looking for opportunities to showcase my expertise.
 - 👩🏻‍🎓 Trained at bootcamp All in Tech {Reprograma}
