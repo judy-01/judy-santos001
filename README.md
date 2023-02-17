@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  width="40" height="40" />
           
-  ### My projects :                
+              
 
 <div>
 <a href="https://github.com/judy-santos001">
