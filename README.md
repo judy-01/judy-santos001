@@ -1,5 +1,5 @@
-## Hello, I'm Judy 
-### Back-End development student 👩🏻‍💻  
+## Hello, I'm Judy
+### Back-End developer
 
 - ⚡ I am currently looking for opportunities to showcase my expertise.
 - 👩🏻‍🎓 Computer Science Student 
