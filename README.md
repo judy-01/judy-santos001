@@ -1,7 +1,7 @@
 ## Hello, I'm Judy
 ### Back-End developer
 
-- ⚡ I am currently looking for opportunities to showcase my expertise.
+
 - 👩🏻‍🎓 Computer Science Student 
 - 👩🏻‍💻 former student of {Reprograma} br
 
